@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "gitPages"
+    }
+  },
+  "defaultProject": "gitPages",
+  "cli": {
+    "analytics": false
+  }
 }
